@@ -43,9 +43,9 @@ cooldown: 86400000,
         }
     },
     {
-        id: 'premium_role',
-        name: 'Premium Server Role',
-        price: 15000,
+        id: 'VIP_role',
+        name: 'VIP Role',
+        price: 100000,
         description: 'A special role granting a fancy color and a 10% daily bonus.',
         type: 'role',
 roleId: null,
